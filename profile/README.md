@@ -1,7 +1,5 @@
 ## Tiketi Rafiki 🚍🎫
 
-<!--
-
 
 Tiketi Rafiki is a bus ticketing and car hiring company based in Tanzania. We specialize in providing easy and convenient ticketing solutions for bus travel across Tanzania. In addition, we offer special hire services for buses for those who need to travel in groups/special purposes.
 
@@ -25,5 +23,3 @@ If you have any questions or would like to learn more about our services, please
 - Facebook: [Tiketi Rafiki](https://www.facebook.com/tiketirafiki/)
 
 Thank you for choosing Tiketi Rafiki for your travel needs. We look forward to serving you! 🙌🏽
-
--->
